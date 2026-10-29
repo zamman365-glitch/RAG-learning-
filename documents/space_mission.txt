@@ -1,0 +1,419 @@
+1.  WHAT IS A SPACE MISSION? A space mission is a planned operation that
+    sends a spacecraft, satellite, crew, instrument, or robotic vehicle
+    into space to achieve scientific, commercial, technological, or
+    exploration goals. Missions may study Earth, the Sun, the Moon,
+    planets, asteroids, comets, distant stars, galaxies, or the space
+    environment.
+
+Common mission types: - Earth observation: monitors weather, climate,
+forests, oceans, agriculture, disasters, and land use. - Communication:
+relays television, internet, telephone, and other data. - Navigation:
+provides positioning, navigation, and timing services. - Astronomy:
+studies stars, galaxies, black holes, exoplanets, and the early
+universe. - Planetary exploration: investigates the Moon, Mars, Venus,
+asteroids, comets, and outer planets. - Human spaceflight: carries
+astronauts to spacecraft, laboratories, or other celestial
+destinations. - Technology demonstration: tests new propulsion, docking,
+navigation, robotics, or spacecraft systems. - Space weather: studies
+solar activity and its effects on Earth and spacecraft.
+
+2.  IMPORTANT SPACE AGENCIES AND ORGANIZATIONS NASA: The United States
+    National Aeronautics and Space Administration. It conducts human
+    spaceflight, Earth science, astronomy, planetary exploration, and
+    aeronautics research. ISRO: The Indian Space Research Organisation.
+    It develops Indian launch vehicles, satellites, navigation systems,
+    Earth-observation missions, and science and human-spaceflight
+    programs. ESA: The European Space Agency. It coordinates space
+    activities among participating European countries and conducts
+    science, Earth-observation, and exploration missions. Roscosmos:
+    Russia’s state space corporation, involved in launch services, human
+    spaceflight, and space infrastructure. CNSA: The China National
+    Space Administration, responsible for China’s civil space
+    exploration activities. JAXA: The Japan Aerospace Exploration
+    Agency, involved in launch systems, astronomy, Earth observation,
+    asteroid exploration, and human-spaceflight cooperation. CSA: The
+    Canadian Space Agency, contributing to robotics, Earth observation,
+    and international human-spaceflight projects. SpaceX: A private
+    aerospace company that develops launch vehicles and spacecraft,
+    including Falcon rockets, Dragon spacecraft, and Starship. Other
+    important organizations include the United Arab Emirates Space
+    Agency, South Korea’s space program, and commercial satellite and
+    launch companies.
+
+3.  EARLY SPACE AGE: 1957–1969 Sputnik 1 (Soviet Union, 1957): The first
+    artificial satellite to orbit Earth. Its launch on October 4, 1957,
+    is widely regarded as the beginning of the Space Age. Explorer 1
+    (United States, 1958): The first successful U.S. satellite. Its
+    instruments helped discover the Van Allen radiation belts. Luna 1
+    (Soviet Union, 1959): One of the first spacecraft to reach the
+    vicinity of the Moon and enter a heliocentric orbit. Luna 2 (Soviet
+    Union, 1959): The first human-made object to reach the Moon’s
+    surface. Luna 3 (Soviet Union, 1959): Returned the first photographs
+    of the Moon’s far side. Vostok 1 (Soviet Union, 1961): Yuri Gagarin
+    became the first human to travel into space and orbit Earth on April
+    12, 1961. Mercury-Redstone 3 / Freedom 7 (United States, 1961): Alan
+    Shepard became the first American in space on a suborbital flight.
+    Mariner 2 (United States, 1962): The first successful planetary
+    flyby, studying Venus. Vostok 6 (Soviet Union, 1963): Valentina
+    Tereshkova became the first woman in space. Mariner 4 (United
+    States, 1964 launch; Mars flyby in 1965): Returned the first
+    close-up images of Mars. Luna 9 (Soviet Union, 1966): Made the first
+    successful soft landing on the Moon and transmitted images from the
+    surface. Apollo 8 (United States, 1968): The first crewed mission to
+    orbit the Moon. Apollo 11 (United States, 1969): Neil Armstrong and
+    Buzz Aldrin became the first humans to walk on the Moon on July 20,
+    1969; Michael Collins remained in lunar orbit.
+
+4.  SPACE STATIONS AND REUSABLE SPACECRAFT Salyut 1 (Soviet Union,
+    1971): The first space station placed in orbit. Skylab (United
+    States, 1973): The first U.S. space station, used for research in
+    microgravity and observations of the Sun and Earth. Apollo-Soyuz
+    Test Project (1975): A joint U.S.-Soviet mission that demonstrated
+    cooperation and spacecraft docking. Mir (Soviet Union/Russia,
+    1986–2001): A modular space station that supported long-duration
+    human spaceflight and international research. Space Shuttle (United
+    States, 1981–2011): A reusable crewed spacecraft system used to
+    deploy satellites, conduct experiments, and help build the
+    International Space Station. International Space Station (ISS): An
+    international orbital laboratory continuously occupied since
+    November 2000. It supports research in biology, physics, human
+    health, materials science, and technology.
+
+5.  MAJOR PLANETARY EXPLORATION MISSIONS Pioneer 10 (United States,
+    launched 1972): The first spacecraft to pass through the asteroid
+    belt and make a close encounter with Jupiter. Pioneer 11 (United
+    States, launched 1973): Explored Jupiter and became the first
+    spacecraft to fly past Saturn. Voyager 1 and Voyager 2 (United
+    States, launched 1977): Explored the outer planets. Voyager 1 and
+    Voyager 2 later entered interstellar space, becoming the first two
+    spacecraft to do so. They continue to send limited scientific data
+    when power and communication permit; their status can change. Viking
+    1 and Viking 2 (United States, 1975 launches): Landers and orbiters
+    that studied Mars. Viking 1 achieved the first fully successful U.S.
+    Mars landing in 1976. Galileo (United States, launched 1989):
+    Studied Jupiter and its moons; entered Jupiter orbit in 1995.
+    Cassini-Huygens (NASA, ESA, and Italian Space Agency, launched
+    1997): Studied Saturn, its rings, and moons. The Huygens probe
+    landed on Titan in 2005. Cassini’s mission ended in 2017. Mars
+    Pathfinder (United States, 1996 launch): Delivered the Sojourner
+    rover to Mars in 1997, demonstrating a lower-cost approach to
+    robotic exploration. Mars Exploration Rovers, Spirit and Opportunity
+    (United States, 2003 launches): Investigated Martian geology and
+    evidence of ancient water. Opportunity operated far longer than
+    originally planned. MESSENGER (United States, launched 2004):
+    Orbited Mercury and greatly improved knowledge of its surface and
+    magnetic field. Mission ended in 2015. New Horizons (United States,
+    launched 2006): Flew past Pluto in 2015, providing the first
+    close-up views of Pluto and its moons, then explored Kuiper Belt
+    object Arrokoth in 2019. Juno (United States, launched 2011):
+    Studies Jupiter’s gravity, magnetic field, atmosphere, and interior.
+    Dawn (United States, launched 2007): Orbited Vesta and Ceres, two
+    major bodies in the asteroid belt. Mission ended in 2018. OSIRIS-REx
+    (United States, launched 2016): Collected samples from asteroid
+    Bennu and delivered them to Earth in 2023. The spacecraft continued
+    under the OSIRIS-APEX mission designation toward asteroid Apophis.
+    Parker Solar Probe (United States, launched 2018): Flies through the
+    Sun’s outer atmosphere, the corona, to study solar wind and solar
+    processes. BepiColombo (ESA/JAXA, launched 2018): A joint mission to
+    study Mercury. Consult official mission updates for its current
+    cruise and arrival schedule. Europa Clipper (United States, launched
+    2024): Travels to Jupiter to investigate Europa’s ice-covered ocean
+    world and assess its habitability. It is not designed to land on
+    Europa. JUICE (ESA, launched 2023): Travels to Jupiter to study the
+    planet and icy moons, especially Ganymede, Callisto, and Europa.
+    Dragonfly (NASA, planned rotorcraft mission): Designed to explore
+    Saturn’s moon Titan. Its launch and arrival dates should be checked
+    against current official updates.
+
+6.  MOON EXPLORATION Luna missions: The Soviet Luna program achieved
+    major early milestones, including the first impact on the Moon, the
+    first far-side images, and early soft landings. Ranger missions:
+    U.S. missions that returned close-up images of the lunar surface
+    before impact. Surveyor missions: U.S. robotic landers that tested
+    lunar soil and landing conditions ahead of Apollo. Apollo 11, 12,
+    14, 15, 16, and 17: Crewed Apollo missions that landed astronauts on
+    the Moon. Apollo 13 did not land because an onboard failure forced
+    the crew to abort the landing and return safely. Clementine (United
+    States, 1994): Mapped the Moon and helped identify areas of interest
+    near the poles. Lunar Prospector (United States, 1998): Studied
+    lunar composition and provided evidence related to hydrogen near the
+    lunar poles. SMART-1 (ESA, 2003): Tested solar-electric propulsion
+    and studied the Moon. Chang’e 1 and Chang’e 2 (China): Orbital
+    missions that mapped and studied the Moon. Chang’e 3 (China, 2013):
+    Landed on the Moon and deployed the Yutu rover. Chang’e 4 (China,
+    2019): Achieved the first soft landing on the lunar far side and
+    deployed the Yutu-2 rover. Chang’e 5 (China, 2020): Returned lunar
+    samples to Earth. Chandrayaan-1 (India, 2008): Orbited the Moon and
+    contributed evidence for water-related molecules on the lunar
+    surface. Chandrayaan-2 (India, 2019): Its orbiter continued lunar
+    science after the lander failed during descent. Chandrayaan-3
+    (India, 2023): Achieved a successful soft landing near the lunar
+    south polar region and deployed the Pragyan rover. India became the
+    fourth country to achieve a soft lunar landing. Luna 25 (Russia,
+    2023): Attempted a lunar landing but crashed before landing. SLIM
+    (Japan, 2024): Demonstrated precision lunar landing technology.
+    Odysseus (Intuitive Machines, United States, 2024): Achieved a lunar
+    landing as part of a commercial lunar delivery mission, though the
+    lander ended up tilted. Blue Ghost (Firefly Aerospace, United
+    States, 2025): A commercial robotic lunar lander that successfully
+    delivered science and technology payloads to the Moon. Artemis
+    program (NASA and partners): A series of missions intended to return
+    astronauts to the lunar environment, develop capabilities for
+    sustained exploration, and prepare for future crewed missions to
+    Mars. Check NASA for the latest mission dates and status.
+
+7.  MARS EXPLORATION Mariner 4: First successful Mars flyby and early
+    close-up images. Viking 1 and Viking 2: Orbiters and landers that
+    conducted imaging, weather observations, and biological experiments.
+    Mars Global Surveyor (United States, 1996 launch): Mapped Mars and
+    studied its surface, atmosphere, and magnetic properties. Mars
+    Odyssey (United States, 2001 launch): Maps the surface and studies
+    minerals and hydrogen distribution; its operational status should be
+    checked with NASA. Mars Express (ESA, 2003 launch): Studies Mars’
+    surface, subsurface, atmosphere, and water history. Spirit and
+    Opportunity: Rovers that found evidence of ancient environments
+    shaped by water. Curiosity (NASA, landed 2012): A rover studying
+    Gale Crater, geology, climate, and past habitability. Mangalyaan /
+    Mars Orbiter Mission (India, launched 2013): India’s first Mars
+    mission and a successful Mars orbiter; it is no longer operational.
+    MAVEN (NASA, launched 2013): Studies how Mars’ atmosphere interacts
+    with the solar wind and how atmospheric gases escape to space.
+    ExoMars Trace Gas Orbiter (ESA/Roscosmos cooperation, launched
+    2016): Studies trace gases and maps the Martian atmosphere. Consult
+    ESA for current operational status. Hope / Emirates Mars Mission
+    (UAE, launched 2020): Studies the Martian atmosphere and weather.
+    Tianwen-1 (China, launched 2020): Included an orbiter, lander, and
+    rover; the Zhurong rover landed on Mars in 2021. Perseverance (NASA,
+    landed 2021): Studies geology and ancient habitability in Jezero
+    Crater and collects samples for possible future return to Earth.
+    Ingenuity (NASA): The small helicopter carried by Perseverance
+    completed the first powered, controlled flights on another planet.
+    Its flight operations ended in 2024 after rotor damage. Mars Sample
+    Return: A proposed international effort to bring samples collected
+    by Perseverance to Earth. Architecture, schedule, and funding have
+    been under review; do not present a specific future launch date as
+    certain without checking current official sources.
+
+8.  INDIA’S SPACE PROGRAM: ISRO Aryabhata (1975): India’s first
+    satellite, launched with Soviet assistance. SLV-3 and Rohini (1980):
+    The SLV-3 successfully placed the Rohini satellite into orbit, a
+    major milestone in India’s launch-vehicle development. INSAT and
+    GSAT programs: Support communications, broadcasting, meteorology,
+    and related services. IRS and Cartosat programs: Support remote
+    sensing, mapping, agriculture, water resources, urban planning, and
+    disaster management. NavIC: India’s regional satellite navigation
+    system, designed to provide positioning and timing services.
+    Chandrayaan-1 (2008): India’s first lunar mission; studied the Moon
+    and contributed to discoveries related to lunar water. Mars Orbiter
+    Mission / Mangalyaan (2013): Made India the first country to reach
+    Mars orbit on its first attempt. The mission is no longer
+    operational. AstroSat (2015): India’s multi-wavelength space
+    observatory. Chandrayaan-2 (2019): The orbiter continues to provide
+    lunar observations according to ISRO mission records; the lander did
+    not achieve a soft landing. Chandrayaan-3 (2023): Successfully
+    landed Vikram and deployed Pragyan near the lunar south polar
+    region. The surface mission was short-lived, but its landing was a
+    major milestone. Aditya-L1 (launched 2023): India’s solar
+    observatory placed in a halo orbit around the Sun-Earth L1 region.
+    It studies the Sun’s atmosphere, solar wind, and space weather.
+    XPoSat (launched 2024): India’s X-ray Polarimeter Satellite,
+    designed to study the polarization of X-ray emissions from
+    astronomical sources. SpaDeX (launched December 2024): Demonstrated
+    autonomous docking and undocking between two small spacecraft,
+    including power transfer. This is an important technology for future
+    servicing, station, and crewed missions. NISAR (launched July 30,
+    2025): Joint NASA-ISRO Synthetic Aperture Radar mission using L-band
+    and S-band radar to observe changes in Earth’s land and ice
+    surfaces, ecosystems, and hazards. Axiom Mission 4 (2025): Indian
+    astronaut Group Captain Shubhanshu Shukla flew to the International
+    Space Station and conducted microgravity experiments, becoming the
+    first Indian to visit the ISS. NVS-02 (2025): Navigation satellite
+    launched by ISRO; ISRO records list it as not operational. Avoid
+    describing it as fully operational. EOS-09 / PSLV-C61 (May 2025):
+    Mission not accomplished because of a launch-vehicle issue. CMS-03
+    (November 2025): Communication satellite launched by LVM3-M5.
+    BlueBird Block 2 (December 2025): Commercial communications
+    satellite launched by LVM3-M6; ISRO described it as the heaviest
+    satellite launched from Indian soil at that time. PSLV-C62 / EOS-N1
+    (January 2026): ISRO reported that the mission encountered an
+    anomaly during the third stage and was not accomplished. GSLV-F17 /
+    EOS-05 (September 4, 2026): ISRO reports that the mission
+    successfully placed EOS-05 into its intended orbit. Gaganyaan:
+    India’s human-spaceflight program, intended to demonstrate crewed
+    orbital flight and related technologies. Test flights, crewed launch
+    dates, and mission plans can change; consult ISRO’s latest official
+    updates before giving a date as confirmed.
+
+9.  OTHER MAJOR SPACE SCIENCE MISSIONS Hubble Space Telescope (NASA/ESA,
+    launched 1990): Observes the universe across ultraviolet, visible,
+    and near-infrared wavelengths and has contributed to discoveries in
+    cosmology and galaxy evolution. Chandra X-ray Observatory (NASA,
+    launched 1999): Observes high-energy X-rays from objects such as
+    black holes, supernova remnants, and galaxy clusters. Kepler (NASA,
+    launched 2009): Discovered thousands of exoplanet candidates and
+    confirmed planets, transforming exoplanet research. Mission ended
+    in 2018. TESS (NASA, launched 2018): Searches for exoplanets around
+    nearby bright stars. James Webb Space Telescope / JWST (NASA, ESA,
+    CSA, launched 2021): Observes infrared light to study early
+    galaxies, star formation, exoplanets, and planetary atmospheres.
+    Euclid (ESA, launched 2023): Maps galaxies and cosmic structure to
+    investigate dark matter and dark energy. XRISM (JAXA/NASA
+    collaboration, launched 2023): Studies X-rays from energetic cosmic
+    objects and hot gas. XPoSat (India, launched 2024): Studies X-ray
+    polarization from bright astronomical sources. SPHEREx (NASA,
+    launched 2025): A space telescope designed to survey the sky in
+    near-infrared wavelengths and study cosmic history, galaxies, and
+    the ingredients for life in the Milky Way. Check current NASA
+    records for mission status and released results. Nancy Grace Roman
+    Space Telescope (NASA): A planned space observatory for dark-energy
+    research, exoplanets, and wide-field infrared surveys. Verify launch
+    status and dates from NASA.
+
+10. EARTH OBSERVATION, WEATHER, AND NAVIGATION Earth-observation
+    satellites monitor the planet’s surface, atmosphere, oceans, ice,
+    vegetation, and disasters. Their data support weather forecasts,
+    climate science, crop monitoring, flood mapping, wildfire detection,
+    and urban planning. Weather satellites observe clouds, storms, water
+    vapor, and atmospheric conditions. Communication satellites relay
+    voice, video, and data over long distances. Navigation satellites
+    provide timing and positioning signals. Examples include GPS (United
+    States), Galileo (European Union), GLONASS (Russia), BeiDou (China),
+    and NavIC (India). Radar satellites can observe the surface through
+    clouds and at night. Optical satellites generally rely on reflected
+    sunlight and can be affected by clouds. NISAR is an example of a
+    radar mission designed to measure changes in Earth’s surface and
+    ecosystems.
+
+11. COMMERCIAL SPACEFLIGHT Commercial companies launch satellites,
+    deliver cargo and crew to orbit, provide broadband internet, and
+    develop lunar and deep-space technologies. Falcon 9: SpaceX’s
+    partially reusable orbital launch vehicle. Dragon: SpaceX spacecraft
+    used for cargo and crew transport. Starlink: A large satellite
+    constellation designed to provide broadband internet; constellation
+    size and service availability change over time. New Glenn: Blue
+    Origin’s heavy-lift orbital launch vehicle. Consult official records
+    for mission-specific status. Commercial lunar landers: Companies
+    such as Intuitive Machines and Firefly Aerospace have delivered
+    payloads to the lunar surface under commercial and government
+    programs. Commercial missions can be successful, partially
+    successful, or unsuccessful. The presence of a company or spacecraft
+    name does not imply that every mission has succeeded.
+
+12. IMPORTANT SPACE MISSION TERMS Launch vehicle: A rocket used to carry
+    spacecraft or payloads into space. Payload: The satellite,
+    instrument, crew, or cargo carried by a launch vehicle. Orbit: The
+    curved path of one object around another because of gravity and
+    motion. Low Earth orbit (LEO): An orbit relatively close to Earth,
+    commonly used by crewed spacecraft and many Earth-observation
+    satellites. Geostationary orbit (GEO): An equatorial orbit with a
+    period matching Earth’s rotation, allowing a satellite to appear
+    nearly fixed above one point on Earth. Lunar lander: A spacecraft
+    designed to descend and operate on the Moon. Rover: A mobile robotic
+    vehicle that explores a planetary surface. Flyby: A spacecraft
+    passes near a celestial body without entering orbit around it.
+    Orbiter: A spacecraft that travels around a celestial body. Sample
+    return: A mission that collects material and returns it to Earth.
+    Docking: Joining two spacecraft in orbit. Re-entry: The return of a
+    spacecraft or object into an atmosphere from space. Telemetry: Data
+    sent from a spacecraft to mission controllers. Deep space: Space
+    beyond Earth’s immediate orbital environment; exact usage depends on
+    context. Microgravity: Conditions in which objects experience
+    apparent weightlessness while still subject to gravity. Solar wind:
+    A stream of charged particles flowing outward from the Sun.
+    Exoplanet: A planet orbiting a star other than the Sun.
+
+13. WHY SPACE MISSIONS MATTER
+
+-   Improve scientific understanding of Earth, the Solar System, and the
+    universe.
+-   Support weather forecasting, climate monitoring, agriculture,
+    navigation, and communication.
+-   Help detect and manage natural disasters.
+-   Test technologies such as robotics, autonomous navigation,
+    propulsion, docking, and life-support systems.
+-   Investigate whether environments beyond Earth could have supported
+    life.
+-   Inspire education, engineering, international cooperation, and
+    commercial innovation.
+-   Provide data for planetary defense and the study of asteroids and
+    comets.
+
+14. FREQUENTLY ASKED QUESTIONS Q: What was the first artificial
+    satellite? A: Sputnik 1, launched by the Soviet Union on October 4,
+    1957.
+
+Q: Who was the first human in space? A: Yuri Gagarin, who flew aboard
+Vostok 1 on April 12, 1961.
+
+Q: Who were the first humans to walk on the Moon? A: Neil Armstrong and
+Buzz Aldrin during Apollo 11 in July 1969.
+
+Q: Which country first landed a spacecraft softly on the Moon? A: The
+Soviet Union’s Luna 9 achieved the first successful soft lunar landing
+in 1966.
+
+Q: Which country achieved a lunar soft landing in 2023? A: India,
+through Chandrayaan-3. India became the fourth country to achieve a soft
+lunar landing.
+
+Q: What was India’s first satellite? A: Aryabhata, launched in 1975.
+
+Q: What was India’s first Mars mission? A: The Mars Orbiter Mission,
+also known as Mangalyaan, launched in 2013.
+
+Q: What is Aditya-L1? A: An Indian solar observatory that studies the
+Sun from the Sun-Earth L1 region.
+
+Q: What is NISAR? A: A joint NASA-ISRO radar mission launched in 2025 to
+measure changes in Earth’s land and ice, ecosystems, and related
+processes.
+
+Q: What is the ISS? A: The International Space Station, an international
+orbital laboratory used for research and human spaceflight.
+
+Q: What is the difference between a flyby and an orbiter? A: A flyby
+passes near a target; an orbiter enters a bound orbit around it.
+
+Q: What is a sample-return mission? A: A mission that collects material
+from a target and returns it to Earth for laboratory analysis.
+
+Q: Are all announced missions guaranteed to launch? A: No. Schedules can
+change because of technical, budgetary, safety, and operational reasons.
+
+15. GUIDANCE FOR AN LLM USING THIS FILE
+
+-   Answer with clear mission names, countries or agencies, launch
+    years, objectives, and achievements when known.
+-   Distinguish a launch date from an arrival, landing, docking, or
+    mission-completion date.
+-   Distinguish successful, partially successful, failed, inactive, and
+    planned missions.
+-   Do not say that a mission is currently active unless a recent
+    reliable source supports that claim.
+-   Do not invent launch dates, crew names, discoveries, payloads, or
+    mission outcomes.
+-   If asked about the latest mission news, current spacecraft status,
+    current astronaut assignments, or future schedules, verify official
+    agency sources first.
+-   Prefer primary sources such as NASA.gov, ISRO.gov.in, ESA.int,
+    JAXA.jp, CNSA announcements, and Roscosmos publications.
+-   Explain acronyms on first use.
+-   If sources disagree, describe the disagreement and prefer recent
+    official mission records.
+-   This is a selected overview, not an exhaustive list of every
+    national, military, commercial, or scientific mission.
+
+16. SELECTED OFFICIAL SOURCES FOR UPDATES NASA mission directory:
+    https://www.nasa.gov/nasa-missions/ NASA planetary exploration
+    chronology: https://nssdc.gsfc.nasa.gov/planetary/chrono.html NASA
+    history of the Space Age:
+    https://www.nasa.gov/history/dawn-of-the-space-age/ ISRO launch
+    missions: https://www.isro.gov.in/LaunchMissions.html ISRO
+    spacecraft missions: https://www.isro.gov.in/SpacecraftMissions.html
+    ISRO recent updates: https://www.isro.gov.in/recent_updates.html ESA
+    missions: https://www.esa.int/Science_Exploration/Space_Science
+    JAXA: https://global.jaxa.jp/ CSA: https://www.asc-csa.gc.ca/eng/
+    CNSA information: use official Chinese government and CNSA
+    publications.
+
+END OF SPACE MISSIONS KNOWLEDGE BASE
