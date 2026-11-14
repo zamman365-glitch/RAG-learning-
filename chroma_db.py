@@ -77,18 +77,3 @@ def main():
         print("the way SQL LIKE search needs them to.")
 
     print("\n=== VECTOR SEARCH (meaning-based, via ChromaDB) ===")
-
-    try:
-        vector_matches = vector_search_demo(query)
-        for m in vector_matches:
-            print("- " + m[:150] + "...")
-        print("\nNotice: vector search found the Neptune chunk about")
-        print("'extremely strong winds' even though the exact words")
-        print("'unusually' and 'powerful' never appear in the text.")
-        print("It matched based on MEANING, not exact keywords.")
-    except Exception as e:
-        print("Run 1_build_vector_db.py first! Error:", e)
-
-
-if __name__ == "__main__":
-    main()
