@@ -85,3 +85,10 @@ def main():
         print("the way SQL LIKE search needs them to.")
 
     print("\n=== VECTOR SEARCH (meaning-based, via ChromaDB) ===")
+
+ else:
+        print("No matches found! The word 'unusually', 'powerful', and")
+        print("'winds' don't all literally appear together in any chunk")
+        print("the way SQL LIKE search needs them to.")
+
+    print("\n=== VECTOR SEARCH (meaning-based, via ChromaDB) ===")
