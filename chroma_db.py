@@ -77,3 +77,7 @@ def main():
         print("the way SQL LIKE search needs them to.")
 
     print("\n=== VECTOR SEARCH (meaning-based, via ChromaDB) ===")
+
+
+
+    

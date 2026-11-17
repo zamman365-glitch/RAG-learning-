@@ -209,3 +209,13 @@ set ANTHROPIC_API_KEY=your-key-here           # Windows cmd
   which plain SQL cannot do natively.
 - RAG lets you give an LLM up-to-date, private, or domain-specific knowledge
   without retraining it.
+
+
+
+
+
+### Analogy for students
+Think of an **open-book exam**. A closed-book exam is like asking an LLM a
+question with no RAG — it can only answer from memory. RAG turns it into an
+open-book exam: right before answering, the student (LLM) is handed the exact
+pages of the textbook (retrieved chunks) most relevant to the question.
